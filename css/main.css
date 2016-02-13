@@ -1,0 +1,90 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+	background-color: #FAF9F5;
+
+}
+/* top bar */
+header {
+	width:100%;
+	height: 46px;
+	padding: 5px;
+	margin-top:30px;
+	margin-bottom:10px;
+}
+
+
+.nav ul li {
+ 	padding: 10px 5px;
+ }
+
+.nav,.logo,.menu {
+	display: inline;
+	
+}
+
+.menu {
+	font-family: Arial;
+	font-size: 15px;
+	float: right;
+	padding: 5px;
+	color: #ACACAC;
+	
+}
+
+.logo {
+	float:left;
+	
+}
+
+.fa {
+	font-size: 13px;
+	vertical-align:top;
+	display: inline;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #ACACAC;
+}
+
+/* description*/
+.description, .graphic {
+	display: inline;
+}
+
+.description {
+	font-family: "CrimsonSemiBold", serif;
+	float: left;
+	width: 30%;
+	margin: 250px 0px;
+	text-align: center;
+}
+	
+.para1 {
+	color: #ACACAC;
+}
+
+
+
+/*button*/
+button {
+	background-color: transparent;
+	width: 244px;
+	height: 53px;
+	border-style: solid;
+	border-color: #AB8FBF;
+
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #AB8FBF;
+}
+
+/* leaf pinwheel image*/
+.graphic {
+	float: right;	
+	 
+}
+
